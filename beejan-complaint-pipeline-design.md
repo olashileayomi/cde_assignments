@@ -17,7 +17,7 @@ Design a solution to bring all the data together and develop a conceptual end-to
 
 ## The Solution
 
-<img src="./cde_assignments/image1.png" style="width:6.24051in;height:3.28403in" />
+![Beejan Technologies conceptual data pipeline](image1.png)
 
 Fig 1.1 Beejan Technologies Conceptual data pipeline
 
