@@ -1,0 +1,6 @@
+# Environment variables / local configuration
+.env
+
+# Runtime logs
+logs/*.log
+

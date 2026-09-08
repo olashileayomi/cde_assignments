@@ -1,0 +1,6 @@
+sale_id,customer_id,product,quantity,unit_price,sale_date
+S001,C001,PVC Pipe,20,4500,2026-09-01
+S002,C002,Water Pump,5,85000,2026-09-02
+S003,C003,PPR Pipe,30,6200,2026-09-03
+S004,C004,Basin Faucet,10,18500,2026-09-04
+S005,C005,Kitchen Sink,8,45000,2026-09-05
