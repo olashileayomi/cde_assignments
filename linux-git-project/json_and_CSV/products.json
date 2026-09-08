@@ -1,0 +1,32 @@
+[
+    {
+        "product_id": "P001",
+        "product_name": "PVC Pipe",
+        "category": "Pipes",
+        "unit_price": 4500
+    },
+    {
+        "product_id": "P002",
+        "product_name": "Water Pump",
+        "category": "Pumps",
+        "unit_price": 85000
+    },
+    {
+        "product_id": "P003",
+        "product_name": "PPR Pipe",
+        "category": "Pipes",
+        "unit_price": 6200
+    },
+    {
+        "product_id": "P004",
+        "product_name": "Basin Faucet",
+        "category": "Faucets",
+        "unit_price": 18500
+    },
+    {
+        "product_id": "P005",
+        "product_name": "Kitchen Sink",
+        "category": "Sanitary Ware",
+        "unit_price": 45000
+    }
+]

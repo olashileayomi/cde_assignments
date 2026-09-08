@@ -1,0 +1,2 @@
+This text file is to demonstate how only the csv and json files in this directory 
+would be moved to the json_and_CSV directory.  
