@@ -865,10 +865,6 @@ The configuration includes:
 
 # Runtime logs
 logs/*.log
-
-# Python cache
-__pycache__/
-*.pyc
 ```
 
 The `.env` file is ignored because environment/configuration files may contain values that should remain local.
